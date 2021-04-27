@@ -197,7 +197,7 @@ Results are much better with speed set point 2.5m/s
 ## Team event: bi-weekly team meeting
 - TODO: maintain environment/dependencies installation steps in prep_env.sh
 - Feedback from J. Knaup, performance baseline with 5m/s is better than my screenshots, controller might be running slow (simulation and code run in realtime not sim time)
-![baseline from J. Knaup](https://github.com/ahmedkhalaf/autorally_work/raw/main/images/run_vel5.0_jacob.png)
+![baseline from J. Knaup](images/run_vel5.0_jacob.png)
 
 # Mar, 2
 

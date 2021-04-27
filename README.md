@@ -82,7 +82,7 @@ Notes:
 
 Code: https://github.com/MMehrez/MPC-and-MHE-implementation-in-MATLAB-using-Casadi/tree/master/workshop_github
 
-[![Part 3 | MPC for trajectory tracking](https://img.youtube.com/vi/HxxX7Uir2H8/0.jpg)](https://www.youtube.com/watch?v=HxxX7Uir2H8)
+[![Part 3 - MPC for trajectory tracking](https://img.youtube.com/vi/HxxX7Uir2H8/0.jpg)](https://www.youtube.com/watch?v=HxxX7Uir2H8)
 
 Full playlist:
 

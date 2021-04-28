@@ -57,7 +57,7 @@ Notes:
 
 Video: [ORCA - Nonlinear MPCC "How it works"](https://www.youtube.com/watch?v=QWY7sV9sjkA)
 Code: https://github.com/alexliniger/MPCC
-<img src="https://github.com/alexliniger/MPCC/blob/master/Images/MPC_sim.gif" width="700" />
+<img src="https://github.com/alexliniger/MPCC/raw/master/Images/MPC_sim.gif" width="700" />
 
 
 # Feb, 5

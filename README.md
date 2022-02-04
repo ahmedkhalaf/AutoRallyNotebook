@@ -1,9 +1,8 @@
 # Design Notebook
+## [Active Safety for Autonomous and Semi-Autonomous Vehicles](https://www.vip.gatech.edu/teams/active-safety-autonomous-and-semi-autonomous-vehicles)
 - [Georgia Tech Vertically Integrated Project (VIP)](https://www.vip.gatech.edu/) - Spring 2021
+- Lead: Dr. Panagiotis Tsiotras - tsiotras@gatech.edu
 - Name: Ahmed Khalaf - ahmed.khalaf@gatech.edu
-
-## VIP team: [Active Safety for Autonomous and Semi-Autonomous Vehicles](https://www.vip.gatech.edu/teams/active-safety-autonomous-and-semi-autonomous-vehicles)
-Lead: Dr. Panagiotis Tsiotras - tsiotras@gatech.edu
 
 ## Subteam: [AutoRally](https://autorally.github.io/) #2 (MPC motion planning)
 Lead: Jacob Knaup - jacobk@gatech.edu

@@ -1,5 +1,5 @@
 # Design Notebook
-- Spring 2021 - Vertically Integrated Project (VIP)
+- [Georgia Tech Vertically Integrated Project (VIP)](https://www.vip.gatech.edu/) - Spring 2021
 - Name: Ahmed Khalaf - ahmed.khalaf@gatech.edu
 
 ## VIP team: [Active Safety for Autonomous and Semi-Autonomous Vehicles](https://www.vip.gatech.edu/teams/active-safety-autonomous-and-semi-autonomous-vehicles)

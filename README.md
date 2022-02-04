@@ -3,8 +3,7 @@
 - [Georgia Tech Vertically Integrated Project (VIP)](https://www.vip.gatech.edu/) - Spring 2021
 - Lead: Dr. Panagiotis Tsiotras - tsiotras@gatech.edu
 - Name: Ahmed Khalaf - ahmed.khalaf@gatech.edu
-
-## Subteam: [AutoRally](https://autorally.github.io/) #2 (MPC motion planning)
+### Subteam: [AutoRally](https://autorally.github.io/) #2 (MPC motion planning)
 Lead: Jacob Knaup - jacobk@gatech.edu
 
 ### Starting point (Feb 2021)

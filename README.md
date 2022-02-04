@@ -9,6 +9,13 @@ Lead: Dr. Panagiotis Tsiotras - tsiotras@gatech.edu
 ## Subteam: [AutoRally](https://autorally.github.io/) #2 (MPC motion planning)
 Lead: Jacob Knaup - jacobk@gatech.edu
 
+### Starting point
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4J7w1VV7CNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### [Spoiler Alert] Results on more complex Race track
+After introducing multi-shot receding horizon control with safety hard constraint.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1ms5fctfAYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Jan, 26
 
 ## Team event: Subteams assigned

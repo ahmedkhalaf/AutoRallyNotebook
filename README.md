@@ -15,12 +15,12 @@ After introducing multi-shot receding horizon control with safety hard constrain
 
 # Jan, 26
 
-## Team event: Subteams assigned
+### Team event: Subteams assigned
 
 # Jan, 27
 
-## Subteam event: First subteam meeting.
-## Todos
+### Subteam event: First subteam meeting.
+### Todos
   - Build autorally public repo locally
   - J. Knaup to send over a paper and code for the LTV MPC controller
   - material and code to be studied

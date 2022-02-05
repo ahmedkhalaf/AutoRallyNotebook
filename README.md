@@ -1,4 +1,4 @@
-# Design Notebook for [Active Safety for Autonomous and Semi-Autonomous Vehicles](https://www.vip.gatech.edu/teams/active-safety-autonomous-and-semi-autonomous-vehicles)
+# [Active Safety for Autonomous and Semi-Autonomous Vehicles](https://www.vip.gatech.edu/teams/active-safety-autonomous-and-semi-autonomous-vehicles)
 - [Georgia Tech Vertically Integrated Project (VIP)](https://www.vip.gatech.edu/) - Spring 2021
 - Lead: Dr. Panagiotis Tsiotras - tsiotras@gatech.edu
 - Name: Ahmed Khalaf - ahmed.khalaf@gatech.edu
@@ -11,7 +11,7 @@
 After introducing multi-shot receding horizon control with safety hard constraint.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ms5fctfAYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Progress log
+# Design Notebook / Progress log
 
 # Jan, 26
 
